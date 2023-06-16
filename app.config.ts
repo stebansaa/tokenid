@@ -31,6 +31,9 @@ export default defineAppConfig({
     },
     footer: {
       iconLinks: [
+        {
+          href: 'https://frogge.finance',
+        }
       ]
     }
   }
