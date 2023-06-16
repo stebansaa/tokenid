@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'TokenID',
-    description: 'Enhancing ERC20 Tokens with Off-Chain Metadata.',
+    description: 'Securing Tokens with Off-Chain Metadata.',
     image: 'https://i.ibb.co/jg75w3T/image.png',
     socials: {
       twitter: 'tokenID',
@@ -32,7 +32,7 @@ export default defineAppConfig({
     footer: {
       iconLinks: [
         {
-          href: 'https://frogge.finance',
+          href: 'https://www.tokenid.dev',
         }
       ]
     }
