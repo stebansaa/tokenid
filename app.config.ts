@@ -2,10 +2,10 @@ export default defineAppConfig({
   docus: {
     title: 'tokenID',
     description: 'Enhancing ERC20 Tokens with Off-Chain Metadata.',
-    image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
+    image: 'https://i.ibb.co/jg75w3T/image.png',
     socials: {
-      twitter: 'nuxtstudio',
-      github: 'nuxt-themes/docus'
+      twitter: 'tokenID',
+      github: 'stebansaa/tokenid'
     },
     github: {
       dir: '.starters/default/content',
