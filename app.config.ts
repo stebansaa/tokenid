@@ -1,6 +1,6 @@
 export default defineAppConfig({
   docus: {
-    title: 'tokenID',
+    title: 'TokenID',
     description: 'Enhancing ERC20 Tokens with Off-Chain Metadata.',
     image: 'https://i.ibb.co/jg75w3T/image.png',
     socials: {
@@ -31,10 +31,6 @@ export default defineAppConfig({
     },
     footer: {
       iconLinks: [
-        {
-          href: 'https://twitter.com/tokenid',
-          icon: 'simple-icons:nuxtdotjs'
-        }
       ]
     }
   }
